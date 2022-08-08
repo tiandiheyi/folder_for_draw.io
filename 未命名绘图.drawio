@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T06:36:08.060Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Z6k8Sqonjac0gv75yrwn" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T06:46:09.689Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="71jiwhCpkOPenokpQsbl" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3270" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,11 @@
         <mxCell id="Lnu7teP86cwltTtQZVl4-6" value="usr_local" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lnu7teP86cwltTtQZVl4-7" value="思考：usr能否只用一个分区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Lnu7teP86cwltTtQZVl4-7" value="思考1：usr能否只用一个分区" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lnu7teP86cwltTtQZVl4-8" value="思考2：swapfile位置" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="405" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
